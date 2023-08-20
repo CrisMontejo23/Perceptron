@@ -15,8 +15,8 @@ Esta es una aplicación interactiva para entrenar y utilizar un perceptrón. Per
 
 ## Creado por
 
-Cristhian Montejo
-Juan Giraldo
+- Cristhian Montejo
+- Juan Giraldo
 
 ## Licencia
 
