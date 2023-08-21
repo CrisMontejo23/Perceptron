@@ -1,7 +1,5 @@
 # Perceptrón
 
-![Universidad de Cundinamarca](logo.png)
-
 Esta es una aplicación interactiva para entrenar y utilizar un perceptrón. Permite cargar entradas, salidas deseadas y pesos, entrenar el perceptrón y calcular las salidas para diferentes combinaciones de entradas.
 
 ## Características
@@ -23,3 +21,5 @@ Esta es una aplicación interactiva para entrenar y utilizar un perceptrón. Per
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
+
+![Universidad de Cundinamarca](logo.png)
